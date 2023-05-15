@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Chilanka&family=Roboto:wght@300&display=swap");
+nav {
+  background-color: #0097B2;
+  list-style: none;
+}
+nav div a img {
+  width: 150px;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+nav ul li {
+  color: white;
+}
+
+.logoimg {
+  width: 150px;
+}
+
+/*# sourceMappingURL=main.css.map */

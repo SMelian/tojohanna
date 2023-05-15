@@ -1,0 +1,26 @@
+nav{ 
+    background-color: $mainBgColor;
+    list-style: none;
+    div{
+        a{
+            img{
+                width: 150px;
+                height: 100%;
+                margin: 0px;
+                padding: 0px;
+            }
+        }
+    }
+        ul{
+            li{
+                color:white;
+            }
+        }
+}
+
+.logoimg{
+    width: 150px;
+}
+img{
+    width: 150px;
+}
